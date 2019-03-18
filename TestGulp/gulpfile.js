@@ -1,3 +1,4 @@
+/// <binding BeforeBuild='default, copy-assets' />
 /// <reference path="node_modules/lightgallery.js/dist/js/lightgallery.js" />
 /// <binding Clean='clean' />
 "use strict";
